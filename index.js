@@ -1,1 +1,2 @@
-console.log('Hello, NodeJS!')
+const chalk = require('chalk')
+console.log(chalk.blue('Hello, NodeJS!'))
